@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import pickle
-import math
 
 # Load model
 def load_model():
